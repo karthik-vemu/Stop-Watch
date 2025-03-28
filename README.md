@@ -8,9 +8,6 @@ This is a simple stopwatch application built using HTML, CSS, and JavaScript. It
 ✔ Lightweight and easy to use
 
 📂 Project Structure
-lua
-Copy
-Edit
 📦 Stopwatch-App  
 │-- 📜 index.html  (Main UI)  
 │-- 📜 style.css   (Styling)  
